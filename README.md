@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="signature.svg" width="460" alt="Tharushi" />
-</p>
-
 ## Hi, I'm Tharushi 🌸
 
 **Computer Science & Engineering undergraduate at the University of Moratuwa**<br>
